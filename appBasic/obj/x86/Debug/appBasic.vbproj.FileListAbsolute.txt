@@ -1,0 +1,16 @@
+D:\192102233-David Mahendra\appBasic\appBasic\bin\Debug\appBasic.exe
+D:\192102233-David Mahendra\appBasic\appBasic\bin\Debug\appBasic.pdb
+D:\192102233-David Mahendra\appBasic\appBasic\bin\Debug\appBasic.xml
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.Form1.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.frmHitungBagi.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.frmHitungKali.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.frmHitungKurang.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.frmHitungTambah.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.frmIF_terbesar.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.frmIF_Terbesar_Terkecil.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.frmRepeat_Kelipatan.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.Resources.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.vbproj.GenerateResource.Cache
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.exe
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.xml
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.pdb
