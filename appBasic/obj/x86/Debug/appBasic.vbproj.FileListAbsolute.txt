@@ -14,3 +14,6 @@ D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.vbproj.Gene
 D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.exe
 D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.xml
 D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.pdb
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.frmLooping02.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.frmLooping03.resources
+D:\192102233-David Mahendra\appBasic\appBasic\obj\x86\Debug\appBasic.frmBilPrima.resources

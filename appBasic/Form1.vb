@@ -28,4 +28,19 @@
         Dim a As New frmRepeat_Kelipatan
         a.Show()
     End Sub
+
+    Private Sub TimerToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TimerToolStripMenuItem.Click
+        Dim a As New frmLooping02
+        a.Show()
+    End Sub
+
+    Private Sub TimerMobilToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TimerMobilToolStripMenuItem.Click
+        Dim a As New frmLooping03
+        a.Show()
+    End Sub
+
+    Private Sub BilanganPrimaToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BilanganPrimaToolStripMenuItem.Click
+        Dim a As New frmBilPrima
+        a.Show()
+    End Sub
 End Class

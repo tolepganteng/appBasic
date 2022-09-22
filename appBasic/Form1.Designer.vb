@@ -33,6 +33,10 @@ Partial Class Form1
         Me.TerbesarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.KelipatanToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TerbesarKecilToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.LoopingToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.TimerToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.TimerMobilToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.BilanganPrimaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip2.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -46,7 +50,7 @@ Partial Class Form1
         '
         'MenuStrip2
         '
-        Me.MenuStrip2.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.HitungToolStripMenuItem, Me.DecisionToolStripMenuItem})
+        Me.MenuStrip2.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.HitungToolStripMenuItem, Me.DecisionToolStripMenuItem, Me.LoopingToolStripMenuItem})
         Me.MenuStrip2.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip2.Name = "MenuStrip2"
         Me.MenuStrip2.Size = New System.Drawing.Size(601, 24)
@@ -63,25 +67,25 @@ Partial Class Form1
         'TambahToolStripMenuItem
         '
         Me.TambahToolStripMenuItem.Name = "TambahToolStripMenuItem"
-        Me.TambahToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
+        Me.TambahToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.TambahToolStripMenuItem.Text = "Tambah"
         '
         'KurangToolStripMenuItem
         '
         Me.KurangToolStripMenuItem.Name = "KurangToolStripMenuItem"
-        Me.KurangToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
+        Me.KurangToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.KurangToolStripMenuItem.Text = "Kurang"
         '
         'KaliToolStripMenuItem
         '
         Me.KaliToolStripMenuItem.Name = "KaliToolStripMenuItem"
-        Me.KaliToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
+        Me.KaliToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.KaliToolStripMenuItem.Text = "Kali"
         '
         'BagiToolStripMenuItem
         '
         Me.BagiToolStripMenuItem.Name = "BagiToolStripMenuItem"
-        Me.BagiToolStripMenuItem.Size = New System.Drawing.Size(116, 22)
+        Me.BagiToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.BagiToolStripMenuItem.Text = "Bagi"
         '
         'DecisionToolStripMenuItem
@@ -108,6 +112,31 @@ Partial Class Form1
         Me.TerbesarKecilToolStripMenuItem.Name = "TerbesarKecilToolStripMenuItem"
         Me.TerbesarKecilToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.TerbesarKecilToolStripMenuItem.Text = "Terbesar&Kecil"
+        '
+        'LoopingToolStripMenuItem
+        '
+        Me.LoopingToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TimerToolStripMenuItem, Me.TimerMobilToolStripMenuItem, Me.BilanganPrimaToolStripMenuItem})
+        Me.LoopingToolStripMenuItem.Name = "LoopingToolStripMenuItem"
+        Me.LoopingToolStripMenuItem.Size = New System.Drawing.Size(63, 20)
+        Me.LoopingToolStripMenuItem.Text = "Looping"
+        '
+        'TimerToolStripMenuItem
+        '
+        Me.TimerToolStripMenuItem.Name = "TimerToolStripMenuItem"
+        Me.TimerToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.TimerToolStripMenuItem.Text = "Timer"
+        '
+        'TimerMobilToolStripMenuItem
+        '
+        Me.TimerMobilToolStripMenuItem.Name = "TimerMobilToolStripMenuItem"
+        Me.TimerMobilToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.TimerMobilToolStripMenuItem.Text = "Timer Mobil"
+        '
+        'BilanganPrimaToolStripMenuItem
+        '
+        Me.BilanganPrimaToolStripMenuItem.Name = "BilanganPrimaToolStripMenuItem"
+        Me.BilanganPrimaToolStripMenuItem.Size = New System.Drawing.Size(154, 22)
+        Me.BilanganPrimaToolStripMenuItem.Text = "Bilangan Prima"
         '
         'Form1
         '
@@ -136,5 +165,9 @@ Partial Class Form1
     Friend WithEvents TerbesarToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents KelipatanToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents TerbesarKecilToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents LoopingToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents TimerToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents TimerMobilToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents BilanganPrimaToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 End Class

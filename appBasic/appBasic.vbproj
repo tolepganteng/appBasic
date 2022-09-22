@@ -79,6 +79,12 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmBilPrima.Designer.vb">
+      <DependentUpon>frmBilPrima.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilPrima.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmHitungBagi.Designer.vb">
       <DependentUpon>frmHitungBagi.vb</DependentUpon>
     </Compile>
@@ -115,6 +121,18 @@
     <Compile Include="frmIF_terbesar_Terkecil.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmLooping02.Designer.vb">
+      <DependentUpon>frmLooping02.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLooping02.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLooping03.Designer.vb">
+      <DependentUpon>frmLooping03.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLooping03.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmRepeat_Kelipatan.Designer.vb">
       <DependentUpon>frmRepeat_Kelipatan.vb</DependentUpon>
     </Compile>
@@ -142,6 +160,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmBilPrima.resx">
+      <DependentUpon>frmBilPrima.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmHitungBagi.resx">
       <DependentUpon>frmHitungBagi.vb</DependentUpon>
     </EmbeddedResource>
@@ -159,6 +180,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmIF_terbesar_Terkecil.resx">
       <DependentUpon>frmIF_terbesar_Terkecil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLooping02.resx">
+      <DependentUpon>frmLooping02.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLooping03.resx">
+      <DependentUpon>frmLooping03.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmRepeat_Kelipatan.resx">
       <DependentUpon>frmRepeat_Kelipatan.vb</DependentUpon>
